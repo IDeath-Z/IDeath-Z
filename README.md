@@ -1,5 +1,5 @@
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=B519D7&center=true&vCenter=true&width=435&lines=Hi,+I%27m+José;Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=32&duration=3000&pause=1000&center=true&vCenter=true&height=70&lines=Hi,+I%27m+José;Backend+Developer)](https://git.io/typing-svg)
 </div>
 
 ### 💻 Tech Stack
