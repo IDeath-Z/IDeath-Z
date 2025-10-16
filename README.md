@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=B519D7&center=true&vCenter=true&width=435&lines=Hi,+I'm+José;Backend+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
-<!--
-**IDeath-Z/IDeath-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,androidstudio,postgres,git,arch,godot" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDeath-Z&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/josé-antonio-moraes-de-oliveira-b66568189"><strong>LinkedIn</strong></a> 
+  · 
+  <a href="mailto:jose.joz46@outlook.com"><strong>Email</strong></a>
+</div>
