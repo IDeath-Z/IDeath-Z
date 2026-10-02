@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/josé-antonio-moraes-de-oliveira-b66568189"><strong>LinkedIn</strong></a> 
+  <a href="www.linkedin.com/in/josemoraes-dev"><strong>LinkedIn</strong></a> 
   · 
-  <a href="mailto:jose.joz46@outlook.com"><strong>Email</strong></a>
+  <a href="contato@josemoraes.dev"><strong>Email</strong></a>
 </div>
