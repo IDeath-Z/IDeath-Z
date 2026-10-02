@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=32&duration=3000&pause=1000&color=7D39CB&center=true&vCenter=true&height=70&lines=Hi,+I%27m+José;Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=32&duration=3000&pause=1000&color=7D39CB&center=true&vCenter=true&height=70&lines=Hi,+I%27m+José;Backend+Developer)](https://git.io/typing-svg)
 
 ### 💻 Tech Stack
 
@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <a href="www.linkedin.com/in/josemoraes-dev"><strong>LinkedIn</strong></a> 
-  · 
-  <a href="contato@josemoraes.dev"><strong>Email</strong></a>
+  <a href="https://www.linkedin.com/in/josemoraes-dev"><strong>LinkedIn</strong></a>
+  ·
+  <a href="mailto:contato@josemoraes.dev"><strong>Email</strong></a>
 </div>
