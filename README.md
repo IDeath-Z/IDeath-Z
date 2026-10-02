@@ -1,22 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=32&duration=3000&pause=1000&color=7D39CB&center=true&vCenter=true&height=70&lines=Hi,+I%27m+José;Backend+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=C59AD1&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;BACKEND+DEVELOPER;JAVA+%7C+SPRING+BOOT;APIs+%7C+DATABASES;EXPLORING+THE+CODE+UNIVERSE..." alt="SYSTEM BOOTING..." />
+</p>
 
-### 💻 Tech Stack
+<p align="center">
+  <img src="./terminal.svg" alt="Terminal Arch Linux: José Antonio, backend developer" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=5000&color=EDD7F4&center=true&vCenter=true&width=700&lines=Tools+and+Technologies%3A" alt="Tools and Technologies" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,githubactions,linux,arch,git,python,godot" alt="Java, Spring, PostgreSQL, Docker, GitHub Actions, Linux, Arch, Git, Python, Godot" />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/josemoraes-dev"><img src="https://img.shields.io/badge/LinkedIn-7D39CB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contato@josemoraes.dev"><img src="https://img.shields.io/badge/contato%40josemoraes.dev-A64CBF?style=for-the-badge" alt="contato@josemoraes.dev" /></a>
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/josemoraes-dev"><strong>LinkedIn</strong></a>
-  ·
-  <a href="mailto:contato@josemoraes.dev"><strong>Email</strong></a>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7D39CB,100:C59AD1&animation=fadeIn)
