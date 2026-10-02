@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=C59AD1&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;BACKEND+DEVELOPER;JAVA+%7C+SPRING+BOOT;APIs+%7C+DATABASES;EXPLORING+THE+CODE+UNIVERSE..." alt="SYSTEM BOOTING..." />
-</p>
-
-<p align="center">
   <img src="./terminal.svg" alt="Terminal Arch Linux: José Antonio, backend developer" />
 </p>
 
